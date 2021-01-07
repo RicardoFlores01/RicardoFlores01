@@ -1,7 +1,5 @@
 <h4>**Hi there 👋**</h4>
-<p align="center" style="margin:auto;">
-  <img src="https://github.com/RicardoFlores01/RicardoFlores01/blob/master/portada.png">
-</p>
+
 <h3>**About Me 😜** </h3>
 <p>Hi, My name is Ricardo Flores.<br>
   <ul>
