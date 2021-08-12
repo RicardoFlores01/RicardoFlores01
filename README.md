@@ -4,11 +4,10 @@
 <p>Hi, My name is Ricardo Flores.<br>
   <ul>
   <li>I am a person who likes to learn and teach other people a lot 👨‍🏫 I think that every day is a new opportunity to learn.</li>
-    <li>I am a student in the "Instituto Tecnòligico de Aguascalientes" and the career "Ingenierìa en Tecnologìas de la informaciòn y comunicaciones"
+    <li>I am a student in the "Tecnológico Nacional de México Campus Aguasclientes" and the career "Ingenierìa en Tecnologìas de la informaciòn y comunicaciones"
     <li>I like to research and learn from the cultures of the other countries 🌎</li>
     <li>I like to listen to music 🎧 and do meditation exercises.</li>
     <li>My favorite hobby is taking courses 👨‍💻📚</li>
-  <li>I am currently developing an educational platform called "SmartMind Edu" 💙</li>
   </ul>
 </p>
 <br>
@@ -16,9 +15,6 @@
 <p>
   Some of the programming languages are
   <ul>
-    <li> C++ </li>
-    <li> C· </li>
-    <li> Java </li>
     <li> Javascript </li>
     <li> PHP </li>
    </ul>
@@ -40,27 +36,3 @@
   <li>Facebook  <a href="https://www.facebook.com/rickyflores03">rickyflores03</a></li>
     
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
