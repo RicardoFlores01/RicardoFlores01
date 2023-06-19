@@ -17,10 +17,14 @@
   <ul>
     <li> Javascript </li>
     <li> PHP </li>
+    <li> Python </li>
+    <li> Java </li>
    </ul>
   DataBases
   <ul>
     <li> MySQL </li>
+    <li> PostgreSQL </li>
+    <li> SQL Server </li>
   </ul>
   Others are 
   <ul>
